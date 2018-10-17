@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata|Ranga");
+
+
+
+.Home {
+    height: 410px;
+    padding: 10%;
+    display: flex;
+    color: tomato;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 3em;
+    font-family: "Iconsolata";
+    background-image:url("https://images.ctfassets.net/bxd3o8b291gf/3hollgS5QIcaUmoAWMsMEC/0ab7c45e0842488acdce82a76f6a7123/Hogwarts_PM_B4C37M1_GreatHallMourningCedricsDeath_Moment.jpg?w=1200");
+    background-repeat:no-repeat;
+    background-color:blue;
+    background-size: cover;
+
+}

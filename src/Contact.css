@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata|Ranga");
+
+
+.h1 {
+    font-family: "Inconsolata";
+}
+
+.Contact {
+    height: 800px;
+    font-family: "Inconsolata";
+    display: flex;
+    justify-content: left;
+    align-items: right;
+    flex-direction: column;
+    background-image: url("https://i.ytimg.com/vi/yQIFkMlDF4M/maxresdefault.jpg");
+    background-size: cover;
+    background-color: tomato;
+    font-size: 2em;
+    color:tomato;
+
+}
+.prout {
+    font-size: 0,5em;
+}

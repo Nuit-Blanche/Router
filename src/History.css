@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata|Ranga");
+
+
+
+
+
+.Histo {
+    font-family: "Inconsolata";
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--oDozzTy3--/c_fill,f_auto,fl_progressive,g_center,h_675,q_80,w_1200/18dc07yo20dv8gif.gif");
+    background-size: cover;
+    background-color: tomato;
+    color: aliceblue;
+
+
+
+}
